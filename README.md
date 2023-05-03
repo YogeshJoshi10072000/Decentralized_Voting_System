@@ -105,5 +105,5 @@ Every Vote stored as transaction
 
 
 
-![image](https://user-images.githubusercontent.com/79889734/235903664-1d083c86-52a3-4b10-8726-0c976b0b49b5.png)
+![image](https://user-images.githubusercontent.com/79889734/235903664-1d083c86-52a3-4b10-8726-0c976b0b49b5.png)<br>
 Transaction Detail
