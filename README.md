@@ -42,7 +42,7 @@ Voting Panel
 
 
 
-![image](https://user-images.githubusercontent.com/79889734/235902885-bd3c313d-5d1b-444f-b6c5-3683b3db595f.png)<br>
+<img width="935" alt="2023-03-16 (19)" src="https://user-images.githubusercontent.com/79889734/235910436-6099c673-ddff-4d6e-8669-2055f091c8ff.png"><br>
 Voting Panel 2
 
 
