@@ -5,6 +5,7 @@ Home Page
 
 
 
+
 ![image](https://user-images.githubusercontent.com/79889734/235902527-5b19d261-7fe0-48b8-9359-f4831316ecc6.png)
 Voters Registration Page
 
